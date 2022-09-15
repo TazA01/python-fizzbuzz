@@ -12,4 +12,4 @@ def fizzbuzz(number):
         else:
             answer.append(f"{current_number}")
     
-    return answer
+    return f'the result is: {answer}'
